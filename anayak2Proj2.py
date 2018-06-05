@@ -1,4 +1,7 @@
-
+#Name        : anayak2Proj2.py
+#Author      : Anmol Nayak
+#Version     : April 2018
+#Description : Face detection using CNN
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
